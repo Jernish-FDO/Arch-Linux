@@ -7,14 +7,20 @@ Welcome to the Arch Linux setup guide! This guide is designed to help beginners 
 
 ## 📜 Table of Contents
 
-* [🚀 Getting Started](#-getting-started)
-* [🔧 Installing `yay` - Your AUR Helper](#-installing-yay---your-aur-helper)
-* [🛠️ Installing Basic Tools with `yay`](#-installing-basic-tools-with-yay)
-* [🔄 System Updates](#-system-updates)
-* [🎨 Customization Tips](#-customization-tips)
-* [🤔 Troubleshooting](#-troubleshooting)
-* [📚 Further Reading](#-further-reading)
-* [🎉 Congratulations!](#-congratulations)
+- [🐧 Arch Linux Setup Guide](#-arch-linux-setup-guide)
+  - [📜 Table of Contents](#-table-of-contents)
+  - [🚀 Getting Started](#-getting-started)
+  - [🔧 Installing `yay` - Your AUR Helper](#-installing-yay---your-aur-helper)
+    - [Installation Steps:](#installation-steps)
+  - [🛠️ Installing Basic Tools with `yay`](#️-installing-basic-tools-with-yay)
+    - [📜 Installation Script](#-installation-script)
+    - [📦 Package List (`pkglist.txt`)](#-package-list-pkglisttxt)
+    - [✨ How to Use](#-how-to-use)
+  - [🔄 System Updates](#-system-updates)
+  - [🎨 Customization Tips](#-customization-tips)
+  - [🤔 Troubleshooting](#-troubleshooting)
+  - [📚 Further Reading](#-further-reading)
+  - [🎉 Congratulations!](#-congratulations)
 
 ---
 
